@@ -1,13 +1,9 @@
 <div align="center">
   <h1><strong>Matrix Calculator</strong></h1>
-
-
-
-![Screenshot From 2024-12-17 23-10-45](https://github.com/user-attachments/assets/2d056f50-3fa9-464e-8728-ddfc46b49fd6)
-
-
+  <img src = "https://github.com/realhongloan/matrix-calculator/blob/01b66425446652613f58634b6459eb41fd0652e4/img/Screenshot%20From%202024-12-17%2023-15-02.png">
+  <img src = "https://github.com/realhongloan/matrix-calculator/blob/fce0681d63a58305e45f863b0c19b03ab6a107be/img/Screenshot%20From%202024-12-17%2023-10-45.png">
+  <img src = "https://github.com/realhongloan/matrix-calculator/blob/2d877849769ab566fa558dd34ddae8aa1a48c329/img/Screenshot%20From%202024-12-17%2023-59-42.png">
 </div>
-
 
 
 -The matrix-calculator is a compact, convenient tool designed to handle basic matrix properties. This GUI (Graphical User Interface) based on Qt allows users to perform fundamental matrix operations such as addition, subtraction, multiplication, exponentiation, calculating determinants, inverses, and ranks.
