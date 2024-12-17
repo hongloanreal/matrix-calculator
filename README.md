@@ -13,7 +13,7 @@ To compile and run the program, follow these steps:
   2.  Create a new project with the the files 'MatrixCalculator.cpp, 
   3.  
 Here's a video following these steps:
-![Screencast From 2024-12-17 21-56-53.webm](https://github.com/user-attachments/assets/55a4a7ad-b462-43c5-af03-b73aab441e9a)
+[Screencast From 2024-12-17 21-56-53.webm](https://github.com/user-attachments/assets/3b94faab-0cfa-41f7-8dba-a3100ced2c0c)
 
 ## 2. How it Work
   * A GUI appear with options of operations
