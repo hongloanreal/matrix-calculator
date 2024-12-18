@@ -5,10 +5,9 @@
   <img src = "https://github.com/realhongloan/matrix-calculator/blob/2d877849769ab566fa558dd34ddae8aa1a48c329/img/Screenshot%20From%202024-12-17%2023-59-42.png">
 </div>
 
+_The matrix-calculator is a compact, convenient application designed to handle basic matrix properties. This program is written based on Qt development framework for graphical user interfaces which allows for non-technical users to interact with the software easily without having to deal with the hassle of command lines._
+
 ## 1.Set up
-
-The matrix-calculator is a compact, convenient application designed to handle basic matrix properties. This program is written based on Qt development framework for graphical user interfaces which allows for non-technical users to interact with the software easily without having to deal with the hassle of command lines.
-
 <img src = https://github.com/realhongloan/matrix-calculator/blob/d122459246972b410084a2db49be2c445bd0f244/img/Screencast%20From%202024-12-17%2023-27-02.gif>
 
 ## 2.Functionality
