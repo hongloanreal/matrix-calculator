@@ -11,7 +11,7 @@
 
 
 
-## 1.Setting Up:
+## Setting Up:
 To compile and run the program, follow these steps:
    1. Download all the necessary files for compilation.
       ```
