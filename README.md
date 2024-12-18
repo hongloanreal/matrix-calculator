@@ -11,7 +11,8 @@
 
 
 
-## Setting Up:
+## Setting Up
+### Bash Compilation:
 To compile and run the program, follow these steps:
    1. Download all the necessary files for compilation.
       ```
@@ -24,10 +25,12 @@ To compile and run the program, follow these steps:
       ```
    3. Make sure you've already install all the necessary programs for the compilation.
       ```
-      $ sudo apt install qmake
+      $ sudo apt update
+      $ sudo apt install qt5-default qtcreator qmake build-essential
       ```
    4. Compile the codes.
       ```
+      $ qmake project.pro
       $ make
       ```
    5. Run the executable file.
@@ -36,3 +39,10 @@ To compile and run the program, follow these steps:
       ```
 
 <img src = https://github.com/realhongloan/matrix-calculator/blob/d122459246972b410084a2db49be2c445bd0f244/img/Screencast%20From%202024-12-17%2023-27-02.gif align = "center">
+
+### Qt Creator Compilation:
+  1. Create a new project.
+  2. Choose file "project.pro" then the IDE will set everything up for you.
+  3. Build all projects.
+  4. Then run the executable file.
+
